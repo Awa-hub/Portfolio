@@ -1,6 +1,5 @@
-Thanks for downloading this template!
+This is my Portfolio repository
 
-Template Name: Personal
-Template URL: https://bootstrapmade.com/personal-free-resume-bootstrap-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Author : Awa Keita
+Email : awakeita627@gmail.com
+Site web : https://awa-hub.github.io/Portfolio
